@@ -1,3 +1,4 @@
+Git is Text
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git line 3
+Git is free software distributed under the JAVA.
+Git line 2
